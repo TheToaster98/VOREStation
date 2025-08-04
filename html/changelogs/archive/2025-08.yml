@@ -49,3 +49,6 @@
       The original distillation reactions can be done under normal atmosphere.
   - bugfix: add missing fluid pump research
   - code_imp: Extended unit-test for reagents to respect new distillation
+2025-08-04:
+  SatinIsle:
+  - bugfix: Fixed Dark Furred Zorren not being able to use sprite accessories.
