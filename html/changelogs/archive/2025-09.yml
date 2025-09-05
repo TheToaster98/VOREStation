@@ -36,3 +36,8 @@
 2025-09-04:
   Kashargul:
   - bugfix: ar visor being invisible
+2025-09-05:
+  Tost:
+  - bugfix: Returns the clear gasmasks to most logical places.
+  Willburd:
+  - code_imp: Crossing atom signals now implemented
